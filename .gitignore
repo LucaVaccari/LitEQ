@@ -1,0 +1,7 @@
+*.class
+classes/
+bin/
+.idea/
+.classpath
+.project
+*.iml
